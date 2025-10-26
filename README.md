@@ -1,6 +1,6 @@
 # 🐍 Python by Muhammad Faizan  
 
-Welcome to the **official Python Learning Series** by **Muhammad Faizan (MF Coder)** — a structured, easy-to-follow Python course designed for **5500+ students** across the globe.  
+Welcome to the **official Python Learning Series** by **Muhammad Faizan (MF Coder)** — a structured, easy-to-follow Python course designed for **500+ students** across the globe.  
 This complete learning series covers **every core concept of Python**, from fundamentals to advanced topics, through **Notes, Practice Questions, Quizzes, and Solutions**.
 
 ---
