@@ -20,16 +20,15 @@ Each topic is organized into its **own dedicated repository**, containing:
 
 | 🔢 Topic | 🗂️ Repository Link | 📜 Description |
 |-----------|------------------|----------------|
-| 🧭 **Python Fundamentals** | [Python-Fundamentals-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Python-Fundamentals-by-Muhammad-Faizan) | Learn Python basics — syntax, variables, data types, and user input/output. |
-| 🔁 **Loops** | [Loops-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Loops-by-Muhammad-Faizan) | Master Python loops (`for`, `while`) and their real-world applications. |
-| 🔣 **Conditional Statements** | [Conditional-Statements-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Conditional-Statements-by-Muhammad-Faizan) | Learn decision-making in Python using `if`, `elif`, and `else`. |
-| 🧵 **Strings** | [Strings-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Strings-by-Muhammad-Faizan) | Explore string manipulation, slicing, and methods with practical examples. |
-| ⚙️ **Functions and Recursion** | [Functions-and-Recursion-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Functions-and-Recursion-by-Muhammad-Faizan) | Understand reusable code and recursive problem-solving. |
-| 🧮 **Lists and Tuples** | [Lists-and-Tuples-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Lists-and-Tuples-by-Muhammad-Faizan) | Master sequence data types and their built-in methods. |
-| 🗂️ **Dictionaries and Sets** | [Dictionaries-and-Sets-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Dictionaries-and-Sets-by-Muhammad-Faizan) | Learn mapping and unique data structures in Python. |
-| 🧰 **File Handling** | [File-Handling-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/File-Handling-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python. |
-| 🧠 **Exception Handling** | [Exception-Handling-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/Exception-Handling-by-Muhammad-Faizan) | Manage and debug runtime errors like a pro. |
-| 🧮 **Object-Oriented Programming (OOP)** | [OOP-by-Muhammad-Faizan](https://github.com/Muhammad-Faizan/OOP-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
+| 🧭 **Python Fundamentals** | [Python-Fundamentals-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Python-Fundamentals-by-Muhammad-Faizan) | Learn Python basics — syntax, variables, data types, and user input/output. |
+| 🔁 **Loops** | [Loops-and-Coditional-Statements-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Loops-and-Conditional-Statements-by-Muhammad-Faizan) | Master Python loops (`for`, `while`) and their real-world applications. || Learn decision-making in Python using `if`, `elif`, and `else`. |
+| 🧵 **Strings** | [Strings-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Strings-by-Muhammad-Faizan) | Explore string manipulation, slicing, and methods with practical examples. |
+| ⚙️ **Functions and Recursion** | [Functions-and-Recursion-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Functions-and-Recursion-by-Muhammad-Faizan) | Understand reusable code and recursive problem-solving. |
+| 🧮 **Lists and Tuples** | [Lists-and-Tuples-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Lists-and-Tuples-by-Muhammad-Faizan) | Master sequence data types and their built-in methods. |
+| 🗂️ **Dictionaries and Sets** | [Dictionaries-and-Sets-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Dictionaries-and-Sets-by-Muhammad-Faizan) | Learn mapping and unique data structures in Python. |
+| 🧰 **File Handling** | [File-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/File-Handling-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python. |
+| 🧠 **Exception Handling** | [Exception-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Exception-Handling-by-Muhammad-Faizan) | Manage and debug runtime errors like a pro. |
+| 🧮 **Object-Oriented Programming (OOP)** | [OOP-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOP-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
 
 ---
 
@@ -70,7 +69,7 @@ This Python series will soon include:
 **Muhammad Faizan (MF Coder)**  
 🎓 *Data Scientist & Programming Instructor*  
 📧 Email: your_email_here  
-💼 GitHub: [Muhammad-Faizan](https://github.com/Muhammad-Faizan)  
+💼 GitHub: [Muhammad-Faizan](https://github.com/Faizan-Ashiq)  
 📺 YouTube: [MF Coder](#)
 
 ---
