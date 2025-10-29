@@ -68,11 +68,10 @@ This Python series will soon include:
 **Muhammad Faizan (MF Coder)**  
 🎓 *Data Scientist & Programming Instructor*  
 📧 Email: your_email_here  
-💼 GitHub: [Muhammad-Faizan](https://github.com/Faizan-Ashiq)  
+💼 GitHub: [Faizan-Ashiq](https://github.com/Faizan-Ashiq)  
 📺 YouTube: [MF Coder](#)
 
 ---
 
 ⭐ *If this repository helps you learn Python, give it a star and share it with others learning to code!*  
 
-Would you like me to include a **“Badges Section”** at the top (like Python version, contributions welcome, license, etc.) to mak
