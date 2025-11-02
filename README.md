@@ -27,7 +27,7 @@ Each topic is organized into its **own dedicated repository**, containing:
 | 🧮 **Data Structures** | [Data-Structures-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Data-Structures-by-Muhammad-Faizan) | Master sequence data types and their built-in methods. || Learn mapping and unique data structures in Python. |
 | 🧰 **File Handling** | [File-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/File-Handling-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python. |
 | 🧠 **Exception Handling** | [Exception-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Exception-Handling-by-Muhammad-Faizan) | Manage and debug runtime errors like a pro. |
-| 🧮 **Object-Oriented Programming (OOP)** | [OOP-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOP-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
+| 🧮 **Object-Oriented Programming (OOPs)** | [OOPs-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOPs-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
 
 ---
 
