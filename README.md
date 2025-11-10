@@ -1,4 +1,21 @@
-# 🐍 Python by Muhammad Faizan  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="120" height="120">
+</p>
+
+<h1 align="center">🐍 Advanced Python — Teaching Beyond the Basics</h1>
+<p align="center">
+  <strong>By Muhammad Faizan | Python Mentor </strong><br/>
+  <em>Master advanced Python concepts with real-world depth, clear logic, and hands-on demonstrations.</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Advanced-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning%20Platform-HGPT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Instructor-Muhammad%20Faizan-red?style=for-the-badge">
+</p>
 
 Welcome to the **official Python Learning Series** by **Muhammad Faizan (MF Coder)** — a structured, easy-to-follow Python course designed for **500+ students** across the globe.  
 This complete learning series covers **every core concept of Python**, from fundamentals to advanced topics, through **Notes, Practice Questions, Quizzes, and Solutions**.
@@ -26,7 +43,7 @@ Each topic is organized into its **own dedicated repository**, containing:
 | ⚙️ **Functions and Recursion** | [Functions-and-Recursion-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Functions-and-Recursion-by-Muhammad-Faizan) | Understand reusable code and recursive problem-solving. |
 | 🧮 **Data Structures** | [Data-Structures-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Data-Structures-by-Muhammad-Faizan) | Master sequence data types and their built-in methods. || Learn mapping and unique data structures in Python. |
 | 🧰 **File Handling** | [File-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/File-Handling-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python. |
-| 🧠 **Exception Handling** | [Advanced-Python-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Advanced-Python-by-Muhammad-Faizan) | Master the Advanced concepts of python like Error handling , Map(),Filter(),Reduce and many more |
+| 🧠 **Advanced Python** | [Advanced-Python-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Advanced-Python-by-Muhammad-Faizan) | Master the Advanced concepts of python like Error handling , Map(),Filter(),Reduce and many more |
 | 🧮 **Object-Oriented Programming (OOPs)** | [OOPs-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOPs-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
 
 ---
