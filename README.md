@@ -26,7 +26,7 @@ Each topic is organized into its **own dedicated repository**, containing:
 | ⚙️ **Functions and Recursion** | [Functions-and-Recursion-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Functions-and-Recursion-by-Muhammad-Faizan) | Understand reusable code and recursive problem-solving. |
 | 🧮 **Data Structures** | [Data-Structures-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Data-Structures-by-Muhammad-Faizan) | Master sequence data types and their built-in methods. || Learn mapping and unique data structures in Python. |
 | 🧰 **File Handling** | [File-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/File-Handling-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python. |
-| 🧠 **Exception Handling** | [Exception-Handling-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Exception-Handling-by-Muhammad-Faizan) | Manage and debug runtime errors like a pro. |
+| 🧠 **Exception Handling** | [Advanced-Python-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Advanced-Python-by-Muhammad-Faizan) | Master the Advanced concepts of python like Error handling , Map(),Filter(),Reduce and many more |
 | 🧮 **Object-Oriented Programming (OOPs)** | [OOPs-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOPs-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
 
 ---
