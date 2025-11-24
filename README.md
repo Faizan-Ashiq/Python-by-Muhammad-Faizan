@@ -45,6 +45,7 @@ Each topic is organized into its **own dedicated repository**, containing:
 | 🧰 **File Handling** | [File-Handling-and-Modules-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/File-Handling-and-Modules-by-Muhammad-Faizan) | Read, write, and manage files efficiently in Python with also the Related Modules. |
 | 🧠 **Advanced Python** | [Advanced-Python-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/Advanced-Python-by-Muhammad-Faizan) | Master the Advanced concepts of python like Error handling , Map(),Filter(),Reduce and many more |
 | 🧮 **Object-Oriented Programming (OOPs)** | [OOPs-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/OOPs-by-Muhammad-Faizan) | Build real-world programs using Python classes and objects. |
+| 🧮 **External Libraries (venv)** | [External-Libraries-by-Muhammad-Faizan](https://github.com/Faizan-Ashiq/External-Libraries-by-Muhammad-Faizan) | In this I describe the details about how to handle and create the virtual Eniviornment What is the Role of RE and What is multithreading
 
 ---
 
