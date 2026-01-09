@@ -5,7 +5,7 @@
 <h1 align="center">🐍 Advanced Python — Teaching Beyond the Basics</h1>
 <p align="center">
   <strong>By Muhammad Faizan | Python Mentor </strong><br/>
-  <em>Master advanced Python concepts with real-world depth, clear logic, and hands-on demonstrations.</em>
+  <em>Master advanced Python concepts with real-world depth, clear logic, and hands-on demonstrations.</em> 
 </p>
 
 ---
